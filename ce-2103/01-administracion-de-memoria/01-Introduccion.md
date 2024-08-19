@@ -32,7 +32,7 @@ Respecto a la memoria principal, se tienen las abstracciones de _heap_ y _stack_
 
 ## Definición de Administración de Memoria (ADM)
 
-La administración de memoria viene de la pregunta ¿cómo distribuyo la RAM? Donde estas corresponde a tareas que realia el S.O para distinguir la memoria principal entre los procesos. Incluye la gestión de RAM y disco (memoria virtual).
+La administración de memoria viene de la pregunta ¿cómo distribuyo la RAM? Donde estas corresponde a tareas que realiza el S.O para distinguir la memoria principal entre los procesos. Incluye la gestión de RAM y disco (memoria virtual).
 
 ## ¿Por qué se necesita?
 
