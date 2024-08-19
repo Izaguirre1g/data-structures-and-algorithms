@@ -81,3 +81,5 @@ Dado que la función _foo_ hace otra llamada a la función _bar_, se crea otro s
 ![](Clase-14-Feb-2024/Stack-F3.png)
 Luego de terminar de ejecutar la función _bar_, se elimina su stack frame y se continúa con la siguiente línea de la función _foo_ que también termina de ejecutarse, entonces, nuevamente, se libera un frame stack y volvemos a _main_ para ejecutar la siguiente instrucción de la misma. Dado que nuevamente es una llamada a _foo_, el ciclo que vimos se repetirá una vez más.
 ![](Clase-14-Feb-2024/Stack-F4.png)
+
+En el siguiente video se explica visualmente la paginación: https://www.youtube.com/watch?v=JYyyoeHEAXU
